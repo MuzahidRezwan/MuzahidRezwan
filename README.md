@@ -132,9 +132,12 @@
 
 ---
 
-### 🌟 Featured Live Project
+### 🌟 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/MuzahidRezwan/scientific-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuzahidRezwan&repo=scientific-calculator&theme=radical&hide_border=true&border_radius=12" />
+  </a>
   <a href="https://github.com/MuzahidRezwan/daily-data-pipeline">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuzahidRezwan&repo=daily-data-pipeline&theme=radical&hide_border=true&border_radius=12" />
   </a>
